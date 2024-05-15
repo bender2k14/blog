@@ -56,6 +56,9 @@ The [tags feature of Coding Blog Plugin](https://connect-platform.github.io/codi
 
 # Comments
 
+Do you use Brave now? It has element blocking built in, which I also use to block certain Stack Overflow elements since you showed me how.
+--[Lyndon Gingerich](https://github.com/LyndonGingerich)
+
 > :DarkLight
 > > :InLight
 > >
